@@ -28,11 +28,13 @@
   },
   "homepage": "https://github.com/yucho/scaffold-metalsmith#readme",
   "dependencies": {
+    "babel-preset-env": "^1.7.0",
     "clean-css": "^4.1.11",
     "git-hooks": "^1.1.10",
     "jsonfile": "^4.0.0",
     "jstransformer-eco": "^0.1.0",
     "metalsmith": "^2.3.0",
+    "metalsmith-babel": "^4.3.0",
     "metalsmith-clean-css": "^6.0.0",
     "metalsmith-concat-convention": "^1.2.0",
     "metalsmith-in-place": "^4.1.1",
